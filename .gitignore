@@ -1,0 +1,78 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.cache
+*.diff
+*.patch
+*.tmp
+*.swp
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db
+
+
+# .gitignore
+!.gitkeep
+
+# maven ignore
+target/
+*.war
+*.zip
+*.tar
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+.idea/*
+
+*/.idea/*
+
+
+#findreport
+db.backup
+db.data
+db.lck
+db.log
+db.properties
+db.script
+performanceAnalyze.db
+
+
+#angular
+node_modules/
+*./node_modules/
+data/
+
+
+**./db
+
+# lock files
+package-lock.json
+src-tauri/Cargo.lock
