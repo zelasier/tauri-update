@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "1.",
-  "pub_date": "2024-07-16T17:30:08.165Z",
+  "version": "1.0.7",
+  "notes": "APP v1.0.7 发布",
+  "pub_date": "2024-07-17T08:01:37.369Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjMrRDdiMmJCOWVZdi91aFRXbnpMRkJmTUtrL3hKYWNPUlFSak1RcmRsZ2dZOG45amEyOE5MaStKa1doaDNlTy84STQwcmJTK21LRHJTemxtY21mdHArOG1IUDdCaVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMTUxMDAyCWZpbGU6YXJjdGljbWFkbW9ua2V5c18xLjAuNl94NjRfZW4tVVMubXNpLnppcApHZDlFWFF4aS9qb1h0ZUZEdU01bU1kbzV2N0RmUitPMElySVRoelVjYmI3aFNMaWFraTJzTFpZNGZNRUhDT2JMS0tPTi8zeU1LQ09IUTdEV1BFL3pEZz09Cg==",
-      "url": "https://github.com/zelasier/ArcticMadMonkeys/releases/download/app-v1.0.6/arcticmadmonkeys_1.0.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjMrRDdiMmJCOVovNitkNi9pRUFZaThOZS9CWXlUWUNnRjViQzkyL3Nad2Z5aUZ6UEVKd2YwWWpWeWx2Z3cxZXNNc1dNUXlBV0xpVTJkMkpCazRDcHI5ZWlIeE81ZUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMjAzMjkyCWZpbGU6YXJjdGljbWFkbW9ua2V5c18xLjAuN194NjRfZW4tVVMubXNpLnppcApocFdneUpxbEZyYWRWZ0t5MDRtT2hyOXErT0VDYSt2cjJHYTFRSjdHSjE5cEdVVWEvTFA2ZG9hdkZ0dzhpd0xITnVDeitmVjFjK3h0TW10Y2JEaitCdz09Cg==",
+      "url": "https://github.com/zelasier/ArcticMadMonkeys/releases/download/app-v1.0.7/arcticmadmonkeys_1.0.7_x64_en-US.msi.zip"
     }
   }
 }
