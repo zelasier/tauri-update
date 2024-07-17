@@ -1,0 +1,11 @@
+{
+  "version": "1.0.6",
+  "notes": "1.",
+  "pub_date": "2024-07-16T17:30:08.165Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjMrRDdiMmJCOWVZdi91aFRXbnpMRkJmTUtrL3hKYWNPUlFSak1RcmRsZ2dZOG45amEyOE5MaStKa1doaDNlTy84STQwcmJTK21LRHJTemxtY21mdHArOG1IUDdCaVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMTUxMDAyCWZpbGU6YXJjdGljbWFkbW9ua2V5c18xLjAuNl94NjRfZW4tVVMubXNpLnppcApHZDlFWFF4aS9qb1h0ZUZEdU01bU1kbzV2N0RmUitPMElySVRoelVjYmI3aFNMaWFraTJzTFpZNGZNRUhDT2JMS0tPTi8zeU1LQ09IUTdEV1BFL3pEZz09Cg==",
+      "url": "https://github.com/zelasier/ArcticMadMonkeys/releases/download/app-v1.0.6/arcticmadmonkeys_1.0.6_x64_en-US.msi.zip"
+    }
+  }
+}
