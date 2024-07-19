@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "APP v1.0.8 发布",
-  "pub_date": "2024-07-17T14:01:50.638Z",
+  "version": "1.0.9",
+  "notes": "1.增加用户反馈入口",
+  "pub_date": "2024-07-19T13:27:21.529Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjMrRDdiMmJCOVJibXk0N2l5UEJSVUpKWkFvNHBJaU9mTGdhMFRCZ21qY2NtYURDU1VEU1dKeC9wUUxsclRJTUJQVlFRY1djRFk0OEFTOEpqVmVWYldsd3ZCREswMWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMjI0OTA1CWZpbGU6YXJjdGljbWFkbW9ua2V5c18xLjAuOF94NjRfZW4tVVMubXNpLnppcApnUkFBN0cwdFgvem1NQ3BudGVTSndvZ1g3MTdadTJaa1Vya0NxTjhFTnNMcm05Y0plUzA2QkprUWQ0N01iODRyd1I3OW5zK09WeThtb2tVTDh4aFFCZz09Cg==",
-      "url": "https://graduation-design.oss-cn-beijing.aliyuncs.com/%E6%9E%81%E5%9C%B0%E7%96%AF%E7%8C%B4/arcticmadmonkeys_1.0.8_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdjMrRDdiMmJCOVZ5cExQSWNFTHZqMU0zeWNmWWFEelBPNWhJVjROWmhxWXZmY3BKeFQ5ZHU4b0VCait6bEpqWU5NeEhWMTFESTBDaDMweElLUEk5b0tWWFNDbkZXOVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMzk1NjM1CWZpbGU6YXJjdGljbWFkbW9ua2V5c18xLjAuOV94NjRfZW4tVVMubXNpLnppcApLUFM0Q1hPUUROVTZnc3grYXhvZnNYZU9jb1ZoUTFOQW84Uk9YVzlkV3RrTXZFOWk2RXgvTFQvZ0t1QzlwQ1kzWklrZGhHSURFNDd4UWxkZFUvNWpBUT09Cg==",
+      "url": "https://graduation-design.oss-cn-beijing.aliyuncs.com/%E6%9E%81%E5%9C%B0%E7%96%AF%E7%8C%B4/arcticmadmonkeys_1.0.9_x64_en-US.msi.zip"
     }
   }
 }
